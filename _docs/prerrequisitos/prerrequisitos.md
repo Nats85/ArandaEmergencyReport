@@ -1,4 +1,9 @@
-**Prerrequisitos**
+---
+title: Prerrequisitos
+info:
+---
+🕐 Ultima actualización: Mayo 28 de 2020
+
 
 -   Tener ya una implementación de Aranda en BD **SQL**. 
 
