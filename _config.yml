@@ -73,6 +73,12 @@ defaults:
       layout: doc
       type: uso
   -
+    scope:
+      path: "_docs/video"
+    values:
+      layout: doc
+      type: video
+  -
 
 ###################################
 ## Pattern Settings
