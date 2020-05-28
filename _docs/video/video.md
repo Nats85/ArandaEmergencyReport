@@ -1,5 +1,5 @@
 ---
-title: Reportando el estado de salud
+title: Video
 info:
 ---
 🕐 Ultima actualización: Mayo 28 de 2020
