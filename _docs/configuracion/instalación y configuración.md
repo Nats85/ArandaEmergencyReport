@@ -2,7 +2,11 @@
 title: Procedimiento de instalación
 info:
 ---
-🕐 Ultima actualización: Mayo 28 de 2020
+###### 🕐 Ultima actualización: Mayo 28 de 2020
+
+
+
+
 
 
 -   Descargue el ejecutable Aranda Emergency Report en el servidor de Aranda. Se
