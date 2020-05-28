@@ -18,10 +18,10 @@
     {% endfor %}</ul>
   </div>
 
-  {% assign instalacion_configuración = site.docs | where: 'type', 'instalacion_configuración' | sort: 'url' %}
+  {% assign instalacion_configuracion = site.docs | where: 'type', 'instalacion_configuracion' | sort: 'url' %}
   <div class="group">
-    <div class="group_title">Instalacion y Configuracion</div>
-    <ul>{% for doc in instalacion_configuración %}
+    <div class="group_title">Instalacion y Configuración</div>
+    <ul>{% for doc in instalacion_configuracion %}
       <li><a href="{{ site.baseurl }}{{ doc.url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
     {% endfor %}</ul>
   </div>
