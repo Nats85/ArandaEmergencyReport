@@ -34,6 +34,14 @@
     {% endfor %}</ul>
   </div>
 
+  {% assign configuracion = site.docs | where: 'type', 'video' | sort: 'url' %}
+  <div class="group">
+    <div class="group_title">Emergency Report</div>
+    <ul>{% for doc in video %}
+      <li><a href="{{ site.baseurl }}{{ doc.url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
+    {% endfor %}</ul>
+  </div>
+
 
   {% assign samples = site.docs | where: 'type', 'sample' | sort: 'url' %}
   <ul>{% for doc in samples %}
