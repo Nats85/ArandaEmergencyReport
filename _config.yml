@@ -61,10 +61,10 @@ defaults:
       type: prerrequisitos
   -
       scope:
-        path: "_docs/instalacion_configuracion"
+        path: "_docs/configuracion"
       values:
         layout: doc
-        type: instalacion
+        type: configuracion
 
   -
     scope:
