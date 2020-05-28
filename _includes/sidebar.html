@@ -10,7 +10,7 @@
     <li><a href="{{ site.baseurl }}/index.html"{% if page.url == '/' %} class="active"{% endif %}>Introducción</a></li>
   </ul>
 
-  {% assign instalacion = site.docs | where: 'type', 'prerrequisitos' | sort: 'url' %}
+  {% assign prerrequisitos = site.docs | where: 'type', 'prerrequisitos' | sort: 'url' %}
   <div class="group">
     <div class="group_title">Prerrequisitos</div>
     <ul>{% for doc in prerrequisitos %}
@@ -18,7 +18,7 @@
     {% endfor %}</ul>
   </div>
 
-  {% assign configuracion = site.docs | where: 'type', 'instalacion_configuración' | sort: 'url' %}
+  {% assign instalacion_configuración = site.docs | where: 'type', 'instalacion_configuración' | sort: 'url' %}
   <div class="group">
     <div class="group_title">Instalacion y Configuracion</div>
     <ul>{% for doc in instalacion_configuración %}
@@ -26,7 +26,7 @@
     {% endfor %}</ul>
   </div>
 
-  {% assign configuracion = site.docs | where: 'type', 'uso' | sort: 'url' %}
+  {% assign uso = site.docs | where: 'type', 'uso' | sort: 'url' %}
   <div class="group">
     <div class="group_title">Uso</div>
     <ul>{% for doc in uso %}
@@ -34,7 +34,7 @@
     {% endfor %}</ul>
   </div>
 
-  {% assign configuracion = site.docs | where: 'type', 'video' | sort: 'url' %}
+  {% assign video = site.docs | where: 'type', 'video' | sort: 'url' %}
   <div class="group">
     <div class="group_title">Emergency Report</div>
     <ul>{% for doc in video %}
