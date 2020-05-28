@@ -26,9 +26,10 @@
     {% endfor %}</ul>
   </div>
 
-  {% assign agente = site.docs | where: 'type', 'uso' | sort: 'url' %}
+  {% assign configuracion = site.docs | where: 'type', 'uso' | sort: 'url' %}
   <div class="group">
-    <div class="group_title">Uso
+    <div class="group_title">Uso</div>
+    <ul>{% for doc in uso %}
       <li><a href="{{ site.baseurl }}{{ doc.url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
     {% endfor %}</ul>
   </div>
