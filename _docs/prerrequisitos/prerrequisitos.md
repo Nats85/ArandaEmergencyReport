@@ -1,5 +1,5 @@
 ---
-title: Prerrequisitos
+title: Requisitos
 info:
 ---
 ###### 🕐 Ultima actualización: Mayo 28 de 2020
