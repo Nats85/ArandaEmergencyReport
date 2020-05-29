@@ -9,4 +9,4 @@ info:
 
 
 
-[![]({{ site.baseurl }}/styleguide/images/Emergencyreport.png)](http://www.youtube.com/watch?v=https://arandasoftware-my.sharepoint.com/:v:/g/personal/jeisson_torres_arandasoft_com/EciOxmQEygpOugusULQB3ekBoWTU0DhIwIBe0cietMiqDQ?e=0YATTF"Video Title")
+[![]({{ site.baseurl }}/styleguide/images/Emergencyreport.png)](https://arandasoftware-my.sharepoint.com/:v:/g/personal/jeisson_torres_arandasoft_com/EciOxmQEygpOugusULQB3ekBoWTU0DhIwIBe0cietMiqDQ?e=0YATTF"Video Title")
