@@ -18,11 +18,10 @@ dentro de la compañía (grupo de especialistas).
 
 Para obtener el enlace del formulario, el administrador de Aranda deberá
 dirigirse a la consola de usuario, ingresar al proyecto “Bienestar”, seleccionar
-el servicio **Atención al empelado** y hacer clic en el icono
+el servicio **Atención al empelado** y hacer clic en el icono de la Categoría “Estado de salud”.
 
 ![]({{ site.baseurl }}/styleguide/images/01f55473111f3f84295d81ac192ce5ca.png)
 
-de la Categoría “Estado de salud”.
 
 ![]({{ site.baseurl }}/styleguide/images/08a08ce92f4389f856c463d5620f8c86.png)
 
