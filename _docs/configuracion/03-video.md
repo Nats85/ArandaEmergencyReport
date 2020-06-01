@@ -3,9 +3,6 @@ title: Vídeo de instalación y configuración
 info:
 ---
 ##### 🕐 Ultima actualización Mayo 28 de 2020
-<hr>
-
-
 
 El siguiente vídeo muestra paso a paso la ejecución del instalador, la configuración y la activación del proyecto.
 
