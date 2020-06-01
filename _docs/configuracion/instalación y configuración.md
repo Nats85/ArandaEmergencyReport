@@ -8,23 +8,25 @@ info:
 
 
 
-### Descargue el ejecutable Aranda Emergency Report en el servidor de Aranda. Se debe descargar de la ruta
+## Descargue el ejecutable Aranda Emergency Report en el servidor de Aranda. Se debe descargar de la ruta
 
     <http://temp.arandasoft.com/kb/temp/data/COVID/Release6.zip>  
 
 >    
 
-### Después de descargado, descomprima el Archivo .zip y ejecute el instalador llamado ArandaEmergencyReport.exe , se recomienda ejecutar como Administrador. 
+## Después de descargado, descomprima el Archivo .zip y ejecute el instalador llamado ArandaEmergencyReport.exe , se recomienda ejecutar como Administrador. 
 
    
 
 ### Aparecerá la siguiente ventana donde debe hacer clic en el botón **Cargar Proyecto**:
 
->![]({{ site.baseurl }}/styleguide/images/2eab7834ccec257804e427734bd4b69f.png)
+![]({{ site.baseurl }}/styleguide/images/2eab7834ccec257804e427734bd4b69f.png)
+
+>
 
 ### El instalador le pedirá los datos de conexión a la BD de Aranda ASDK donde se instalará el nuevo proyecto. 
 
->![]({{ site.baseurl }}/styleguide/images/3c1e09cc50bbab2752fa3510d3c97987.png)
+![]({{ site.baseurl }}/styleguide/images/3c1e09cc50bbab2752fa3510d3c97987.png)
 
 >    
 
@@ -32,9 +34,9 @@ info:
 
 ###  Luego de diligenciar los datos, verifique que estos sean correctos haciendo clic en el botón **Probar**. 
 
->![]({{ site.baseurl }}/styleguide/images/007a94ece923e8de82b344ac06aac4f5.png)
+![]({{ site.baseurl }}/styleguide/images/007a94ece923e8de82b344ac06aac4f5.png)
 
- 
+>
 
 ###  Si los datos son correctos, haga clic en el botón **Ejecutar** e inmediatamente se empezará a crear el proyecto.
 
