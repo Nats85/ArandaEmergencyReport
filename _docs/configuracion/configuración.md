@@ -7,7 +7,7 @@ info:
 
 
 
->   **Configuraciones Posteriores**
+# Configuraciones Posteriores**
 
 1.  Asociar usuarios al proyecto (incluidos lo que tienen rol de especialista)
 
