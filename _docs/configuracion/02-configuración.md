@@ -9,17 +9,17 @@ info:
 
 # Configuraciones Posteriores
 
-##   1. Asociar usuarios al proyecto (incluidos lo que tienen rol de especialista)
+**1. Asociar usuarios al proyecto (incluidos lo que tienen rol de especialista)**
 
-##   2. Crear o asociar una compañía al proyecto y asociar los usuarios a dicha compañía.
+**2. Crear o asociar una compañía al proyecto y asociar los usuarios a dicha compañía**
 
-##   3. Asociar la compañía al servicio.
+**3. Asociar la compañía al servicio**
 
-##   4. Asociar especialistas al grupo de especialistas.
+**4. Asociar especialistas al grupo de especialistas**
 
-##   5. Crear de Reglas.
+**5. Crear de Reglas**
 
-##   6. Verificar que el proyecto esté activo.
+**6. Verificar que el proyecto esté activo**
 
 
 
