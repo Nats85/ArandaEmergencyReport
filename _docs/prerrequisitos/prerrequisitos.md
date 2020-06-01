@@ -3,11 +3,6 @@ title: Requisitos
 info:
 ---
 ##### 🕐 Ultima actualización Mayo 28 de 2020
-<hr>
-
-
-
-
 
 **- Tener ya una implementación de Aranda en BD SQL**. 
 
