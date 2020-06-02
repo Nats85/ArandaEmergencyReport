@@ -3,8 +3,8 @@ title: Configuración
 info:
 ---
 ##### 🕐 Ultima actualización Mayo 28 de 2020
----
-
+<br>
+<br>
 ### Configuraciones Posteriores
 
 1. Asociar usuarios al proyecto (incluidos lo que tienen rol de especialista)**
