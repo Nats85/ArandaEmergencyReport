@@ -3,7 +3,7 @@ title: Configuración
 info:
 ---
 ##### 🕐 Ultima actualización Mayo 28 de 2020
-
+---
 
 ### Configuraciones Posteriores
 
