@@ -6,7 +6,7 @@ info:
 <br>
 <br>
 ### Configuraciones Posteriores
-
+<br>
 1. Asociar usuarios al proyecto (incluidos lo que tienen rol de especialista)**
 
 2. Crear o asociar una compañía al proyecto y asociar los usuarios a dicha compañía**
@@ -18,8 +18,8 @@ info:
 5. Crear de Reglas**
 
 6. Verificar que el proyecto esté activo**
-
-
+<br>
+<br>
 
 > Nota: el proyecto está configurado por defecto para que los usuarios no vean
 > las solicitudes creadas en la consola de usuario. Si desea que activar esta
