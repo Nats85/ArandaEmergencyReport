@@ -5,8 +5,8 @@ info:
 ##### 🕐 Ultima actualización Mayo 28 de 2020
 <br>
 <br>
-
-Descargue el ejecutable Aranda Emergency Report en el servidor de Aranda. Se debe descargar de la ruta
+Descargue el ejecutable Aranda Emergency Report en el servidor de Aranda.
+Se debe descargar de la ruta
 
     <http://temp.arandasoft.com/kb/temp/data/COVID/Release6.zip>  
 
