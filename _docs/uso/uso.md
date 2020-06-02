@@ -4,6 +4,8 @@ info:
 ---
 ##### 🕐 Ultima actualización Mayo 28 de 2020
 ---
+
+
 El usuario recibirá un enlace que lo dirigirá al formulario de reporte de salud
 dentro de la consola USDK v8.
 
