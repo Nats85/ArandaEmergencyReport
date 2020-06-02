@@ -3,7 +3,8 @@ title: Procedimiento de instalación
 info:
 ---
 ##### 🕐 Ultima actualización Mayo 28 de 2020
----
+<br>
+<br>
 
 Descargue el ejecutable Aranda Emergency Report en el servidor de Aranda. Se debe descargar de la ruta
 
@@ -14,7 +15,6 @@ Descargue el ejecutable Aranda Emergency Report en el servidor de Aranda. Se deb
 Después de descargado, descomprima el Archivo .zip y ejecute el instalador llamado ArandaEmergencyReport.exe , se recomienda ejecutar como Administrador. 
 
    
-
 Aparecerá la siguiente ventana donde debe hacer clic en el botón **Cargar Proyecto**:
 
 ![]({{ site.baseurl }}/styleguide/images/2eab7834ccec257804e427734bd4b69f.png)
