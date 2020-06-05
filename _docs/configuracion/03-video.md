@@ -7,4 +7,4 @@ info:
 <br>
 El siguiente vídeo muestra paso a paso la ejecución del instalador, la configuración y la activación del proyecto.
 
-[![]({{ site.baseurl }}/styleguide/images/Emergencyreport.png)](https://nats85.github.io/ASDK/"Video Title")
+[![]({{ site.baseurl }}/styleguide/images/Emergencyreport.png)](https://arandasoftware.sharepoint.com/sites/Documentacion-RepositorioPortalDoc/Documentos%20compartidos/Repositorio%20Portal%20Doc/ASDK/Aranda%20Emergency%20Report/Emergencyreport.mp4"Video Title")
